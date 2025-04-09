@@ -5,7 +5,7 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Rean Web"),
+          title: Text("Rean Webs"),
         ),
         body: Column(
           children: [
